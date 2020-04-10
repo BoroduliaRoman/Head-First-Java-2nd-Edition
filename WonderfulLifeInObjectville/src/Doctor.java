@@ -16,6 +16,6 @@ class Surgeon extends Doctor {
 
     }
     void makeIncision() {
-        
+
     }
 }
