@@ -1,4 +1,4 @@
-import javax.swing.*;
+/*import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -48,3 +48,4 @@ class MyDrawPanel extends JPanel {
         g.fillOval(70, 70, 100, 100);
     }
 }
+*/
